@@ -124,7 +124,7 @@ other methods (`db.logOut` & `db.session`) to use it later on.
   This allows you to have multiple sessions
   running alongside each other.
 
-` `options.admins` (optional)
+- `options.admins` (optional)
 
   Allows to pass in an admins object that looks
   like the one defined in CouchDB's `_config`.
